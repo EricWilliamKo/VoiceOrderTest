@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ice -->
+    <string-array name="expression_ice">
+        <item>正常冰</item>
+        <item>去冰</item>
+        <item>微冰</item>
+        <item>少冰</item>
+    </string-array>
+
+    <string-array name="expression_name">
+        <item>請選擇</item>
+        <item>珍珠奶茶</item>
+        <item>珍奶</item>
+        <item>紅茶</item>
+        <item>綠茶</item>
+    </string-array>
+
+    <string-array name="expression_sugar">
+        <item>正常糖</item>
+        <item>無糖</item>
+        <item>微糖</item>
+        <item>半糖</item>
+        <item>少糖</item>
+    </string-array>
+
+
+</resources>

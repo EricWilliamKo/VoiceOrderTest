@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GoogleNowTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="drink_name">item:</string>
+    <string name="ice">ice:</string>
+    <string name="sugar">sugar:</string>
+</resources>

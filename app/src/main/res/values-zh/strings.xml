@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="drink_name">品名:</string>
+    <string name="ice">冰量:</string>
+    <string name="sugar">甜度:</string>
+
+    <!-- drinks -->
+    <string name="expression_bubble_milk_tea">珍珠奶茶</string>
+    <string name="expression_bubble_milk_tea2">珍奶</string>
+    <string name="expression_blacktea">紅茶</string>
+    <string name="expression_green_tea">綠茶</string>
+
+    <!-- ice -->
+    <string name="expression_no_ice">去冰</string>
+    <string name="expression_micro_ice">微冰</string>
+    <string name="expression_few_ice">少冰</string>
+    <string name="expresseion_normal_ice">正常冰</string>
+
+    <!-- sugar -->
+    <string name="expression_no_sugar">無糖</string>
+    <string name="expression_micro_sugar">微糖</string>
+    <string name="expression_few_sugar">少糖</string>
+    <string name="expression_normal_sugar">正常糖</string>
+</resources>
